@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/31/trunk/JavaEventing/src/javaEventing/interfaces
+END
+Condition.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/32/trunk/JavaEventing/src/javaEventing/interfaces/Condition.java
+END
+Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/32/trunk/JavaEventing/src/javaEventing/interfaces/Event.java
+END
+GenericEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/32/trunk/JavaEventing/src/javaEventing/interfaces/GenericEventListener.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/13/trunk/JavaEventing/src/javadoc/javaEventing
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/13/trunk/JavaEventing/src/javadoc/javaEventing/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/13/trunk/JavaEventing/src/javadoc/javaEventing/package-tree.html
+END
+EventManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/13/trunk/JavaEventing/src/javadoc/javaEventing/EventManager.html
+END
+EventManager.GenericEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/13/trunk/JavaEventing/src/javadoc/javaEventing/EventManager.GenericEventListener.html
+END
+EventWatcher.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/13/trunk/JavaEventing/src/javadoc/javaEventing/EventWatcher.html
+END
+EventManager.Condition.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/13/trunk/JavaEventing/src/javadoc/javaEventing/EventManager.Condition.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/13/trunk/JavaEventing/src/javadoc/javaEventing/package-use.html
+END
+EventManager.Event.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/13/trunk/JavaEventing/src/javadoc/javaEventing/EventManager.Event.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/13/trunk/JavaEventing/src/javadoc/javaEventing/package-summary.html
+END
+EventManager.EventObject.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/13/trunk/JavaEventing/src/javadoc/javaEventing/EventManager.EventObject.html
+END
+MultiEventWatcher.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/13/trunk/JavaEventing/src/javadoc/javaEventing/MultiEventWatcher.html
+END
